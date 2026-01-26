@@ -1,0 +1,17 @@
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/logs.txt", "entropy": 3.51, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/saf.txt", "entropy": 3.02, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/config.ini", "entropy": 3.45, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/safe1.txt", "entropy": 3.02, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/safeeee.txt", "entropy": 0.59, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/safee.txt", "entropy": 3.25, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/safe_test.txt", "entropy": 3.02, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/safe.txt", "entropy": 0.59, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/safe2.txt", "entropy": 3.25, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/watcher_entropy.py", "entropy": 4.63, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/seee.txt", "entropy": 0.59, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/ransom3.encrypt", "entropy": 3.61, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/ransom7.crypt1", "entropy": 3.61, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/safe3.txt", "entropy": 0.59, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/report.txt", "entropy": 3.58, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/watcher_logs.json", "entropy": 5.1, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
+{"event": "SCAN", "file": "/home/balamurugan/filewatch_dashboard/watcher/saee.txt", "entropy": 3.25, "status": "SAFE FILE", "timestamp": 1758957277, "action": "-"}
